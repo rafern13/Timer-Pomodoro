@@ -17,13 +17,13 @@ body {
     justify-content: center;
     align-items: center;
     position: relative;
-    top: -4em
+    top: -6em
 }
 
 main {
     width: 1200px;
     background-color: inherit;
-    height: 700px;
+    height: 80%;
     display: grid;
     grid-template-columns: 1fr 3fr;
     gap: 5px;
